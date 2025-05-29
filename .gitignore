@@ -1,0 +1,22 @@
+# Environment files
+.env
+
+# Cache directories
+.cache/
+__pycache__/
+
+# Python cache files anywhere in the repo
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Config files
+config.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

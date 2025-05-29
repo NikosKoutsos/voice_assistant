@@ -1,0 +1,68 @@
+[33mcommit 97303b5e452e09668ac4041aa8ade2d114cae31f[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 18:43:35 2025 +0300
+
+    Removed ignored files from the repository
+
+[33mcommit 3f4eb4c5e0c815e3f239bb5a540fcf6554b542e7[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 18:41:58 2025 +0300
+
+    Re Reapply .gitignore rules to remove untracked files
+
+[33mcommit 4acdf61e5bd3271653fa043293032fcab015d6e5[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 18:37:35 2025 +0300
+
+    Remove ignored files from tracking
+
+[33mcommit 09c5f7359b99f59c65d8b1a1d0cb1d02e0037d97[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 18:35:43 2025 +0300
+
+    Reapply .gitignore rules to remove untracked files
+
+[33mcommit 446f6b4dbdd0cb2dce49cde6f2577ec3a694b7ee[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 18:21:40 2025 +0300
+
+    Remove .cache, __pycache__, and .env from the repository
+
+[33mcommit fd355455cb50b5cd20a92b69369d56f3f85d90f7[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 18:17:25 2025 +0300
+
+    -Added functionality to track the next Full Moon
+
+[33mcommit f52acecf1425edff332cc5274f8abefb1b66e63a[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sat Apr 12 16:52:25 2025 +0300
+
+    Revamped the application
+    
+    
+    Added commands to find the moon phase
+
+[33mcommit a12060de3e5d04f15f0fe0b2af14013e393fac75[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Fri Apr 11 23:43:46 2025 +0300
+
+    revamped the intro of the app
+
+[33mcommit d1415ab1e373ef510194de6f4b061e09b73cb696[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Fri Apr 11 16:46:14 2025 +0300
+
+    Hi
+
+[33mcommit ec1c7e2c5ffc374d51f0422a574b74aceb4708a4[m
+Author: NikosKoutsos <nikoskoutsogeorgos@gmail.com>
+Date:   Sun Apr 6 16:25:31 2025 +0300
+
+    added some changes to the app for the speedtest controls
+
+[33mcommit b9bd83e4a0990a38c33725f9af4f28f290fe3314[m
+Author: Nick Koutsogeorgos <taichihan10@gmail.com>
+Date:   Thu Apr 3 11:19:30 2025 +0300
+
+    Add files via upload
